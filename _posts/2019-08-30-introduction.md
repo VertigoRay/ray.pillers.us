@@ -4,7 +4,7 @@ title: LTEC 6010 Introduction
 img: //i.imgur.com/1flydtA.png
 author: Raymond Piller
 comments: true
-categories: LTEC 5240
+categories: LTEC 6010
 tags:
 - Reflection
 ---
