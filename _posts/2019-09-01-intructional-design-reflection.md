@@ -11,20 +11,20 @@ tags:
 Perveen develops a theoretical framework for employing learning analytics in online education.
 The framework considers the likelihood that online students are of multiple intelligences based on Howard Gardner’s 1983 theory of multiple intelligences.
 I was not previously familiar with Gardner's theory, but I have been a long time a fane of frameworks that help to guide the user to a consistent resolution.
-I feel like the article was mostly surrounded with constructivist notions, but I have a hard time putting a label on a framework that is supposed to adapt to the needs of the student.
-In order to adapt, Perveen suggests using technology to monitor and analyze student behaviors.
-I am interested in learning more about what, if anything, Perveen has researched down this line of thinking.
+I feel like the article was mostly surrounded by constructivist notions, but I have a hard time putting a label on a framework that is supposed to adapt to the needs of the student.
+To adapt, Perveen suggests using technology to monitor and analyze student behaviors.
+I am interested in learning more about what, if anything, Perveen has researched along this line of thinking.
 
-Smith and Abrams (2019) explored gamification and how if can accommodate the needs of all learners, including those who identify as disabled.
+Smith and Abrams (2019) explored gamification and how it can accommodate the needs of all learners, including those who identify as disabled.
 I believe that the term gamification is like the term cloud computing.
-While it might seem like a new, trendy idea, it is really just the re-marketing of an old idea.
+While it might seem like a new, trendy idea, it is just the re-marketing of an old idea.
 Cloud computing has been around for decades under the guise of shared hosting.
-Likewise, gamification reaks of behaviourism by another name (e.g.: punishments and rewards).
+Likewise, gamification reaks of behaviorism by another name (e.g.: punishments and rewards).
 That's not to diminish the ideas of gamification.
 I believe the re-marketing of behaviorism servers to get educators to pay attention to an old idea that has deserved more attention.
 
-I am interested in how gamificaiton and multiple intelligences can be correlated in a universal system that can be easily adapted to the needs to the student.
-Especially, if the correlation is determined in an efficient and consistent manner.
+I am interested in how gamification and multiple intelligences can be correlated in a universal system that can be easily adapted to the needs of the student.
+Especially, if the correlation is determined efficiently and consistently.
 
 ## References
 
