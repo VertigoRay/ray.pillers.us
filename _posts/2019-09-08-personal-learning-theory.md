@@ -1,3 +1,4 @@
+---
 layout: post
 title: Personal Learning Theory
 img: //i.imgur.com/5pbFBWh.jpg
