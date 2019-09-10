@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Personal Learning Theory
 img: //i.imgur.com/5pbFBWh.jpg
 author: Raymond Piller
