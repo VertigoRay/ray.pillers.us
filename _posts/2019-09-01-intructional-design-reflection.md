@@ -30,4 +30,4 @@ Especially, if the correlation is determined efficiently and consistently.
 
 Perveen, A. (2018). Facilitating multiple intelligences through multimodal learning analytics. Turkish Online Journal of Distance Education, 19(1), 18–30.
 
-Smith, K., & Abrams, S. S. (2019). Gamification and accessibility. International Journal of Information and Learning Technology, 36(2), 104–123. doi: 10.1108/ijilt-06-2018-0061
+Smith, K., & Abrams, S. S. (2019). Gamification and accessibility. International Journal of Information and Learning Technology, 36(2), 104–123. doi:10.1108/ijilt-06-2018-0061
