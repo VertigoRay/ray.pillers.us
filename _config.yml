@@ -16,13 +16,13 @@ minimal_mistakes_skin    : dark # "default", "air", "aqua", "contrast", "dark", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ray Things"
+title                    : "Raymond Piller"
 title_separator          : "-"
 name                     : "Raymond Piller"
-description              : "Authoring Learning Games, Sims and Virtual Environments"
+description              : "Senior Security Architect | Healthcare Cybersecurity | HIPAA & FDA Compliance"
 url                      : https://ray.pillers.us
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : VertigoRay/ltec5240.ray.pillers.us
+repository               : VertigoRay/ray.pillers.us
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -108,22 +108,22 @@ analytics:
 author:
   name             : "Raymond Piller"
   avatar           : //static.vertigion.com/images/Avatar-Negative.png
-  bio              : "Figure IT out!"
-  location         : "Ecuador"
-  email            :
+  bio              : "Senior Security Architect at Baylor Scott & White Health. Specializing in endpoint security, authentication, email security, and SIEM. Open source contributor. UNT Learning Technology alumnus."
+  location         : "San Antonio, TX"
+  email            : ray@pillers.us
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:Raymond.Piller@my.unt.edu
+      url: mailto:ray@pillers.us
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: https://blog.vertigion.com
+      url: https://vertigion.com
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: https://twitter.com/VertigoRay
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: https://facebook.com/VertigoRay
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://linkedin.com/in/VertigoRay
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/VertigoRay

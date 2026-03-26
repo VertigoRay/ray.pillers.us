@@ -1,0 +1,71 @@
+personal:
+  - name: PSRedstone
+    url: https://github.com/VertigoRay/PSRedstone
+    stars: 6
+    description: "PowerShell framework for streamlined third-party software deployment. DevOps/IaC approach for MECM/SCCM endpoint management."
+    tags: [PowerShell, DevOps, MECM, IaC]
+  - name: PSWriteLog
+    url: https://github.com/VertigoRay/PSWriteLog
+    stars: 6
+    description: "Standardize PowerShell logging without changing your existing Write-* calls. Drop-in logging with configurable output."
+    tags: [PowerShell, Logging]
+  - name: CVE-2021-36934
+    url: https://github.com/VertigoRay/CVE-2021-36934
+    stars: 2
+    description: "SeriousSAM — Windows Elevation of Privilege vulnerability PoC (HiveNightmare). Security research and remediation documentation."
+    tags: [Security, PowerShell, CVE, Windows]
+  - name: salt-key-accepter
+    url: https://github.com/VertigoRay/salt-key-accepter
+    stars: 4
+    description: "Auto-accepts SaltStack minion key requests from allowed IP CIDR ranges. Infrastructure automation utility."
+    tags: [Python, SaltStack, Infrastructure]
+  - name: posh-bot
+    url: https://github.com/VertigoRay/posh-bot
+    stars: 1
+    description: "PowerShell Active Directory bot for Microsoft Teams. Query AD users, groups, and computers from Teams chat."
+    tags: [PowerShell, ActiveDirectory, Teams]
+  - name: PowerShellTranscription
+    url: https://github.com/VertigoRay/PowerShellTranscription
+    description: "Enable and enforce PowerShell transcription via GPO. Prevents user modification. Enterprise security auditing."
+    tags: [PowerShell, Security, GPO, Enterprise]
+
+unt_cas:
+  - name: ePOwerShell
+    url: https://github.com/UNT-CAS/ePOwerShell
+    stars: 32
+    forks: 8
+    description: "PowerShell module for McAfee ePolicy Orchestrator (ePO). Connect, query, and manage your ePO server from PowerShell 5.0+."
+    tags: [PowerShell, McAfee, ePO, Security]
+  - name: QuserObject
+    url: https://github.com/UNT-CAS/QuserObject
+    stars: 19
+    forks: 7
+    description: "Wraps quser.exe output into proper PowerShell objects. Query logged-on users across local and remote Windows systems."
+    tags: [PowerShell, Windows, RDS]
+  - name: Vagrant-AD-Lab
+    url: https://github.com/UNT-CAS/Vagrant-AD-Lab
+    stars: 14
+    forks: 44
+    description: "Multi-VM Vagrant environment with a fully functional Active Directory domain. Spin up an AD lab in minutes."
+    tags: [PowerShell, Vagrant, ActiveDirectory, Lab]
+  - name: HiddenPowershell
+    url: https://github.com/UNT-CAS/HiddenPowershell
+    stars: 8
+    forks: 5
+    description: "Run PowerShell truly hidden via VBScript wrapper. Solves the limitation where -WindowStyle Hidden is not sufficient."
+    tags: [VBScript, PowerShell, GPO]
+  - name: Update-VSCode
+    url: https://github.com/UNT-CAS/Update-VSCode
+    stars: 6
+    description: "Automagically keep VS Code updated on Windows endpoints. PowerShell-based, deploy via MECM or GPO."
+    tags: [PowerShell, VSCode, Automation]
+  - name: Write-Log
+    url: https://github.com/UNT-CAS/Write-Log
+    stars: 5
+    description: "Write PowerShell log messages in CMTrace.exe compatible format or legacy text format."
+    tags: [PowerShell, Logging, CMTrace]
+  - name: OneDriveDsc
+    url: https://github.com/UNT-CAS/OneDriveDsc
+    stars: 5
+    description: "PowerShell DSC Composite Resource for configuring OneDrive for Business in an enterprise environment."
+    tags: [PowerShell, DSC, OneDrive, Enterprise]
