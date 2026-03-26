@@ -7,6 +7,7 @@ comments: true
 categories: LTEC 5240
 tags:
 - Reflection
+- masters
 ---
 > Consider the materials covered.
 > What is your perception of what should be considered an educational game?

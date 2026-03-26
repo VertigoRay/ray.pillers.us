@@ -8,6 +8,7 @@ categories: LTEC 6010
 tags:
 - Instructional Design
 - Reflection
+- masters
 ---
 I felt that the core roles of teachers had not really changed in decades and weren't likely to change any time in the near future. That's not to say that methodologies won't change and the implementations of those methodolgies will always adapt to the needs of the students and the tools/technologies available.
 

@@ -7,6 +7,7 @@ comments: true
 categories: LTEC 5240
 tags:
 - Reflection
+- masters
 ---
 > We find ourselves a long way from the days of the first text-based adventure games and simple knobs of the Pong console.
 > Looking at the technological options we currently have, where do you anticipate gaming technology heading in the future?

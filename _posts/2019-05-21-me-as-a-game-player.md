@@ -7,6 +7,7 @@ comments: true
 categories: LTEC 5240
 tags:
 - Reflection
+- masters
 ---
 > Write a reflection about your impression of the outcomes of the Games Motivation Profile surveys you took and the Game Player Archetype Quiz.
 > Consider your experiences with games and gameplay, and your reactions to the outcomes.

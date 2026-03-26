@@ -7,6 +7,7 @@ comments: true
 categories: LTEC 5240
 tags:
 - Reflection
+- masters
 ---
 It's a race across the colored shapes collecting strategic cards along the way.
 

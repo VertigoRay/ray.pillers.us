@@ -8,6 +8,7 @@ categories: LTEC 6010
 tags:
 - Instructional Design
 - Reflection
+- masters
 ---
 It took me a while to get into the frame of mind to digest what occurred on Twitter.
 A heavy twitter user might have an easy time tracking down the conversations and following the comments that are ordered by activity.

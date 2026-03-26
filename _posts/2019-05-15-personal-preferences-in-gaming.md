@@ -7,6 +7,7 @@ comments: true
 categories: LTEC 5240
 tags:
 - Reflection
+- masters
 ---
 After reading several articles on gaming, the Magnavox Odyssey stood out to me the most. In part because of its advanced features and technology for the day, but mostly because I had never heard of it before now. As a formerly avid gamer, I never pretended to be an aficionado. However, I did play a ton of games growing up; I realized this as I watched the [history](https://youtu.be/GoyGlyrYb9c) and [evolution](https://youtu.be/6OoKPXASnkM) of gaming videos and recognized a vast majority of the games that were shown.
 

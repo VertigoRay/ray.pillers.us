@@ -7,6 +7,7 @@ comments: true
 categories: LTEC 5240
 tags:
 - Reflection
+- masters
 ---
 > While many consider the *Game Design Document* (GDD) to be an essential element of the development, there are some that feel it is not necessary.
 > As you move into the creation of the GDD for your proposed learning game, what aspects of it do you see are relevant, and which do you feel may not be?

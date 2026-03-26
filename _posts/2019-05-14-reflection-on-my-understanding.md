@@ -7,6 +7,7 @@ comments: true
 categories: LTEC 5240
 tags:
 - Reflection
+- masters
 ---
 As I begin my journey towards the authorship of learning games, sims, and virtual environments, I am led to reflect on my past experiences.
 

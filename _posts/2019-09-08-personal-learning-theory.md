@@ -8,6 +8,7 @@ categories: LTEC 6010
 tags:
 - Instructional Design
 - Reflection
+- masters
 ---
 Opinions are like noses, everyone has one, and they often stick them where they are unwanted.
 

@@ -7,6 +7,7 @@ comments: true
 categories: LTEC 5240
 tags:
 - Reflection
+- masters
 ---
 > Write a reflection about your personal reactions to moving into your first development efforts in both Scratch and Portal 2.
 > Which environment are you excited to work in - 2D or 3D?

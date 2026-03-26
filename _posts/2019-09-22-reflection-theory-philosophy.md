@@ -8,6 +8,7 @@ categories: LTEC 6010
 tags:
 - Instructional Design
 - Reflection
+- masters
 ---
 The things we all go through on a daily and weekly cycle is sometimes daunting.
 I wasn't born in Texas, but I got there as fast as I could.

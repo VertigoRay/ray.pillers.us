@@ -7,6 +7,7 @@ comments: true
 categories: LTEC 5510
 tags:
 - Reflection
+- masters
 ---
 Perveen develops a theoretical framework for employing learning analytics in online education.
 The framework considers the likelihood that online students are of multiple intelligences based on Howard Gardner’s 1983 theory of multiple intelligences.
